@@ -1,0 +1,13 @@
+Column,Missing_Values,Data_Type
+PassengerId,0,int64
+Survived,0,int64
+Pclass,0,int64
+Name,0,str
+Sex,0,str
+Age,177,float64
+SibSp,0,int64
+Parch,0,int64
+Ticket,0,str
+Fare,0,float64
+Cabin,687,str
+Embarked,2,str
